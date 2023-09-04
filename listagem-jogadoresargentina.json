@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "Jogador": "Emiliano Martinez",
+        "idade": "30",
+        "posicão": "GOL",
+        "img": "https://veja.abril.com.br/wp-content/uploads/2022/11/GettyImages-1442807029.jpg?quality=90&strip=info&w=1024&resize=1200,800"
+    },
+    {
+        "id": 2,
+        "Jogador": "Franco Armani",
+        "idade": "36",
+        "posicão": "GOL",
+        "img": "https://conteudo.imguol.com.br/c/copadomundo/2018/Imagem/f2/2018/06/16/franco-armani-da-argentina-1529158235201_v2_4x3.jpg"
+    },
+    {
+        "id": 3,
+        "Jogador": "Gerónimo Rulli",
+        "idade": "31",
+        "posicão": "GOL",
+        "img": "https://canalshowsport.com.ar/wp-content/uploads/2023/01/arg34.png"
+    },
+    {
+        "id": 4,
+        "Jogador": "Nahuel Molina",
+        "idade": "25",
+        "posicão": "LD",
+        "img": "https://elcomercio.pe/resizer/jFqClcndGf41fzckh0SbzobuW8U=/1200x1200/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/USG3CMZGIFCPDJETZRIA3YCTSI.jpg"
+    },
+    {
+        "id": 5,
+        "Jogador": "Gonzalo Montiel",
+        "idade": "26",
+        "posicão": "LE",
+        "img": "https://media.gettyimages.com/id/1442742819/pt/foto/gonzalo-montiel-of-argentina-poses-during-the-official-fifa-world-cup-qatar-2022-portrait.jpg?s=612x612&w=gi&k=20&c=--SiBx0JhqaCXhRB5P7CZkqTzoT7E-cQs2BoxHsuq30="
+    },
+    {
+        "id": 6,
+        "Jogador": "Cristian Romero",
+        "idade": "25",
+        "posicão": "LE",
+        "img": "https://bolavip.com/__export/1669487856523/sites/bolavip/img/2022/11/26/romero_argentina.jpg_1159711837.jpg"
+    },
+    {
+        "id": 7,
+        "Jogador": "Germán Pezzella",
+        "idade": "32",
+        "posicão": "LE",
+        "img": "https://www.ogol.com.br/img/jogadores/42/751942_ori__20210214172921_german_pezzella.jpg"
+    },
+    {
+        "id": 8,
+        "Jogador": "Nicolas Otamendi",
+        "idade": "35",
+        "posicão": "ZAG",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/54781-1669835504.jpg?lm=1"
+    },
+    {
+        "id": 9,
+        "Jogador": "Lisandro Martinez",
+        "idade": "25",
+        "posicão": "ZAG",
+        "img": "https://pbs.twimg.com/media/FiwTuDmX0AA3YOK.jpg:large"
+    },
+    {
+        "id": 10,
+        "Jogador": "Marcos Acuña",
+        "idade": "31",
+        "posicão": "ZAG",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/60410-1668181014.jpg?lm=1"
+    },
+    {
+        "id": 11,
+        "Jogador": "Nicolás Tagliafico",
+        "idade": "30",
+        "posicão": "ZAG",
+        "img": "https://i.guim.co.uk/img/media/0473d3814bd3624bbbafe2bd396ed797c04ff70b/0_0_4395_2637/master/4395.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=b6138d03a335d655ea2817f2dfcd164f"
+    },
+    {
+        "id": 12,
+        "Jogador": "Juan Foyth",
+        "idade": "25",
+        "posicão": "ZAG",
+        "img": "https://media.gettyimages.com/id/1442808658/pt/foto/juan-foyth-of-argentina-poses-during-the-official-fifa-world-cup-qatar-2022-portrait-session.jpg?s=612x612&w=gi&k=20&c=AS_GMU-kG1vZcZSJjCpvOGB_ryiJMIfxZ7FRH0bPRXE="
+    },
+    {
+        "id": 13,
+        "Jogador": "De Paul",
+        "idade": "29",
+        "posicão": "VOL",
+        "img": "https://conteudo.imguol.com.br/c/parceiros/aa/2022/12/07/rodrigo-de-paul-e-um-dos-pilares-da-selecao-argentina-1670436607667_v2_450x450.jpg"
+    },
+    {
+        "id": 14,
+        "Jogador": "Leandro Paredes",
+        "idade": "27",
+        "posicão": "VOL",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/Leandro_Paredes_2018.jpg"
+    },
+    {
+        "id": 15,
+        "Jogador": "Mac Allister",
+        "idade": "23",
+        "posicão": "VOL",
+        "img": "https://mercadodofutebol.com/wp-content/uploads/2023/04/Alexis-Mac-Allister.jpg"
+    },
+    {
+        "id": 16,
+        "Jogador": "Guido Rodríguez",
+        "idade": "27",
+        "posicão": "MC",
+        "img": "https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-11/Guido%20Rodriguez%20Argentina%2011262022.jpg?itok=PcQDtZhn"
+    },
+    {
+        "id": 17,
+        "Jogador": "Alejandro Gómez",
+        "idade": "36",
+        "posicão": "MEI",
+        "img": "https://www.infoknocks.com/wp-content/uploads/2022/11/Alejandro-gomez.jpg"
+    },
+    {
+        "id": 18,
+        "Jogador": "Enzo Fernández",
+        "idade": "23",
+        "posicão": "MEI",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/Enzo_Fern%C3%A1ndez_WC2022.jpg"
+    },
+    {
+        "id": 19,
+        "Jogador": "Exequiel Palacios",
+        "idade": "25",
+        "posicão": "MEI",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/401578-1658913508.jpg?lm=1"
+    },
+    {
+        "id": 20,
+        "Jogador": "Lionel Messi",
+        "idade": "36",
+        "posicão": "ATA",
+        "img": "https://i.pinimg.com/474x/7d/95/f8/7d95f8ce9ecbda5bf67d167f6374c87a.jpg"
+    },
+    {
+        "id": 21,
+        "Jogador": "Lautaro Martinez",
+        "idade": "26",
+        "posicão": "ATA",
+        "img": "https://conteudo.imguol.com.br/c/esporte/ae/2018/06/05/lautaro-martinez-no-amistoso-entre-argentina-e-espanha-1528236565004_1920x1280.jpg"
+    },
+    {
+        "id": 22,
+        "Jogador": "Angel Di María",
+        "idade": "35",
+        "posicão": "ATA",
+        "img": "https://conteudo.imguol.com.br/c/galeria/0f/2022/12/18/di-maria-celebra-seu-gol-sobre-a-franca-na-final-da-copa-1671379257343_v2_450x600.jpg"
+    },
+    {
+        "id": 23,
+        "Jogador": "Julián Álvarez",
+        "idade": "23",
+        "posicão": "ATA",
+        "img": "https://pbs.twimg.com/media/FjFFjPaWYAMulDH.jpg:large"
+    },
+    {
+        "id": 24,
+        "Jogador": "Paulo Dybala",
+        "idade": "30",
+        "posicão": "ATA",
+        "img": "https://pbs.twimg.com/media/FjFKoKgWQAAJ7nl.jpg:large"
+    },
+    {
+        "id": 25,
+        "Jogador": "Nicolás Gonzales",
+        "idade": "25",
+        "posicão": "ATA",
+        "img": "https://media.gettyimages.com/id/1388582807/pt/foto/nicolas-gonzalez-of-argentina-before-the-fifa-world-cup-qatar-2022-qualification-match-between.jpg?s=612x612&w=gi&k=20&c=sa7d9YV7NtL52DIUxucxP3aRCuOXy43oFHS33T-DLNw="
+    },
+    {
+        "id": 26,
+        "Jogador": "Joaquín Correa",
+        "idade": "30",
+        "posicão": "ATA",
+        "img": "https://static1.purebreak.com.br/articles/2/11/19/72/@/513153-atacante-da-selecao-da-argentina-joaquin-700x700-1.jpg"
+    }
+]

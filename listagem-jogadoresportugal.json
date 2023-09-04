@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "Jogador": "Diego Costa",
+        "idade": "23",
+        "posicão": "GOL",
+        "img": "https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fmercadodofutebol.com%2Fwp-content%2Fuploads%2F2021%2F06%2F6092564b17336-25.jpg"
+    },
+    {
+        "id": 2,
+        "Jogador": "José Sá",
+        "idade": "30",
+        "posicão": "GOL",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mex-por-109_%28cropped%29.jpg/220px-Mex-por-109_%28cropped%29.jpg"
+    },
+    {
+        "id": 3,
+        "Jogador": "Rui Patricio",
+        "idade": "35",
+        "posicão": "GOL",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Rui_Patr%C3%ADcio_2018.jpg"
+    },
+    {
+        "id": 4,
+        "Jogador": "Diogo Dalot",
+        "idade": "24",
+        "posicão": "LD",
+        "img": "https://fpfimagehandler.fpf.pt/FPFImageHandler.ashx?type=Person&id=2475967&op=t&w=325&h=378"
+    },
+    {
+        "id": 5,
+        "Jogador": "João Cancelo",
+        "idade": "29",
+        "posicão": "LE",
+        "img": "https://cdn.punchng.com/wp-content/uploads/2021/06/13115041/a1.jpg"
+    },
+    {
+        "id": 6,
+        "Jogador": "António Silva",
+        "idade": "19",
+        "posicão": "LE",
+        "img": "https://i.redd.it/please-i-need-one-more-face-suggestion-now-its-for-antonio-v0-y8cv1bze1cla1.jpg?width=324&format=pjpg&auto=webp&s=8a5dab41f07883ad702cfbcbd1363eb2c2aa179b"
+    },
+    {
+        "id": 7,
+        "Jogador": "Danilo Pereira",
+        "idade": "31",
+        "posicão": "ZAG",
+        "img": "https://fpfimagehandler.fpf.pt/FPFImageHandler.ashx?type=Person&id=2608596&op=t&w=325&h=378"
+    },
+    {
+        "id": 8,
+        "Jogador": "Pepe",
+        "idade": "40",
+        "posicão": "ZAG",
+        "img": "https://www.otempo.com.br/image/contentid/policy:1.2773722:1669665747/Pepe-camisa-jfif.jfif"
+    },
+    {
+        "id": 9,
+        "Jogador": "Rúben Dias",
+        "idade": "26",
+        "posicão": "ZAG",
+        "img": "https://pbs.twimg.com/media/FiMiiDRWQAgbGcX.jpg:large"
+    },
+    {
+        "id": 10,
+        "Jogador": "Nuno Mendes",
+        "idade": "21",
+        "posicão": "ZAG",
+        "img": "https://cultura.uol.com.br/upload/tvcultura/copadomundo/20221201160000_captura-de-tela-2022-12-01-s-15.59.31.png"
+    },
+    {
+        "id": 11,
+        "Jogador": "Raphael Guerreiro",
+        "idade": "29",
+        "posicão": "ZAG",
+        "img": "https://fpfimagehandler.fpf.pt/FPFImageHandler.ashx?type=Person&id=3081740&op=t&w=325&h=378"
+    },
+    {
+        "id": 12,
+        "Jogador": "João Palhinha",
+        "idade": "28",
+        "posicão": "VOL",
+        "img": "https://i0.statig.com.br/bancodeimagens/imgalta/3s/g9/h9/3sg9h9d01d42vp1f07yrum2t6.jpg"
+    },
+    {
+        "id": 13,
+        "Jogador": "Rúben Neves",
+        "idade": "26",
+        "posicão": "VOL",
+        "img": "https://fpfimagehandler.fpf.pt/FPFImageHandler.ashx?type=Person&id=2001704&op=t&w=325&h=378"
+    },
+    {
+        "id": 14,
+        "Jogador": "Bernardo Silva",
+        "idade": "29",
+        "posicão": "MC",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Por-Mar_%289%29_%28cropped%29.jpg"
+    },
+    {
+        "id": 15,
+        "Jogador": "Bruno Fernandes",
+        "idade": "28",
+        "posicão": "MC",
+        "img": "https://lncimg.lance.com.br/cdn-cgi/image/width=3840,quality=75,format=webp/uploads/2022/11/28/6385227c4ec43.jpeg"
+    },
+    {
+        "id": 16,
+        "Jogador": "João Mário",
+        "idade": "30",
+        "posicão": "MC",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/149729-1681390479.jpg?lm=1"
+    },
+    {
+        "id": 17,
+        "Jogador": "Matheus Nunes",
+        "idade": "25",
+        "posicão": "MC",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/601883-1571746027.jpg?lm=1"
+    },
+    {
+        "id": 18,
+        "Jogador": "Otávio",
+        "idade": "28",
+        "posicão": "MC",
+        "img": "https://jornaldaparaiba.com.br/wp-content/uploads/2023/03/Otavio-jogador-Portugal-e1679082769637.jpg"
+    },
+    {
+        "id": 19,
+        "Jogador": "Vitinha",
+        "idade": "23",
+        "posicão": "MC",
+        "img": "https://fpfimagehandler.fpf.pt/FPFImageHandler.ashx?type=Person&id=2608690&op=t&w=325&h=378"
+    },
+    {
+        "id": 20,
+        "Jogador": "William Carvalho",
+        "idade": "31",
+        "posicão": "MC",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/William_Carvalho.jpg"
+    },
+    {
+        "id": 21,
+        "Jogador": "André Silva",
+        "idade": "27",
+        "posicão": "ATA",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Mex-por-16_%281cropped%29.jpg"
+    },
+    {
+        "id": 22,
+        "Jogador": "Cristiano Ronaldo",
+        "idade": "38",
+        "posicão": "ATA",
+        "img": "https://apocalottimismo.it/wp-content/uploads/2021/07/cristiano_ronaldo_dos_santos_aveiro_05021985.png"
+    },
+    {
+        "id": 23,
+        "Jogador": "Gonçalo Ramos",
+        "idade": "22",
+        "posicão": "ATA",
+        "img": "https://placar.com.br/wp-content/uploads/2022/12/000_32ZK6FD.jpg"
+    },
+    {
+        "id": 24,
+        "Jogador": "João Felix",
+        "idade": "23",
+        "posicão": "ATA",
+        "img": "https://i.superesportes.com.br/5CLavbhaoBoE3bQQvkZd96wVO9Y=/1200x1200/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2022/11/25/3981228/joao-felix-defende-portugal-na-copa-do-mundo-no-catar-e-almeja-novos-ares_1_62881.jpg"
+    },
+    {
+        "id": 25,
+        "Jogador": "Rafael Leão",
+        "idade": "24",
+        "posicão": "ATA",
+        "img": "https://img.a.transfermarkt.technology/portrait/originals/462250-1668165358.jpg?lm=1"
+    },
+    {
+        "id": 26,
+        "Jogador": "Ricardo Horta",
+        "idade": "28",
+        "posicão": "ATA",
+        "img": "https://fpfimagehandler.fpf.pt/FPFImageHandler.ashx?type=Person&id=2928980&op=t&w=325&h=378"
+    }
+]

@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "Jogador": "Alisson",
+        "idade": "30",
+        "posicão": "GOL",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Alisson_Brazil_Austria_June_2018.jpg"
+    },
+    {
+        "id": 2,
+        "Jogador": "Ederson",
+        "idade": "30",
+        "posicão": "GOL",
+        "img": "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2018/06/Ederson-goleiro-sele%C3%A7%C3%A3o-brasileira-Copa-do-Mundo.jpg"
+    },
+    {
+        "id": 3,
+        "Jogador": "Weverton",
+        "idade": "35",
+        "posicão": "GOL",
+        "img": "https://conteudo.imguol.com.br/c/esporte/95/2022/08/18/weverton-pega-a-bola-durante-treino-da-selecao-brasileira-1660830839509_v2_450x450.jpg"
+    },
+    {
+        "id": 4,
+        "Jogador": "Danilo",
+        "idade": "32",
+        "posicão": "LD",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/20180610_FIFA_Friendly_Match_Austria_vs._Brazil_Danilo_Luiz_850_1591.jpg"
+    },
+    {
+        "id": 5,
+        "Jogador": "Vanderson",
+        "idade": "22",
+        "posicão": "LE",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/789082-1655282894.jpg?lm=1"
+    },
+    {
+        "id": 6,
+        "Jogador": "Alex Telles",
+        "idade": "30",
+        "posicão": "LE",
+        "img": "https://www.opovo.com.br/_midias/jpg/2022/12/01/818x460/1_conheca_alex_telles_jogador_copa_do_mundo_2022-20414513.jpg"
+    },
+    {
+        "id": 7,
+        "Jogador": "Ayrton Lucas",
+        "idade": "26",
+        "posicão": "LE",
+        "img": "https://s2-ge.glbimg.com/0BMcztgcdSPVQLp7d2stbiJK6NU=/0x0:747x497/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/A/J/1MwS5bTJeKBq89GQKgXg/aytrton.jpg"
+    },
+    {
+        "id": 8,
+        "Jogador": "Ibañez",
+        "idade": "24",
+        "posicão": "ZAG",
+        "img": "https://tntsports.com.br/__export/1691421058894/sites/esporteinterativo/img/2023/08/07/ibanez_fbb_1.png_423682103.png"
+    },
+    {
+        "id": 9,
+        "Jogador": "Éder Militão",
+        "idade": "25",
+        "posicão": "ZAG",
+        "img": "https://pbs.twimg.com/media/FEXCSzmXwAEbMcb.jpg"
+    },
+    {
+        "id": 10,
+        "Jogador": "Marquinhos",
+        "idade": "29",
+        "posicão": "ZAG",
+        "img": "https://s2-ge.glbimg.com/ySp3r4f633IJepYtkr5Pnt99lUk=/0x0:1080x1268/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/O/8/7XBDzyRUSCmloxtom8gQ/316122340-540020840870169-1510689851565741251-n.jpg"
+    },
+    {
+        "id": 11,
+        "Jogador": "Nino",
+        "idade": "26",
+        "posicão": "ZAG",
+        "img": "https://img.a.transfermarkt.technology/portrait/big/520454-1597912290.jpg?lm=1"
+    },
+    {
+        "id": 12,
+        "Jogador": "André",
+        "idade": "22",
+        "posicão": "VOL",
+        "img": "https://mercadodofutebol.com/wp-content/uploads/2021/12/images-48-1.jpeg"
+    },
+    {
+        "id": 13,
+        "Jogador": "Bruno Guimarães",
+        "idade": "25",
+        "posicão": "VOL",
+        "img": "https://classic.exame.com/wp-content/uploads/2022/01/capturar.jpg?quality=70&strip=info&w=1008"
+    },
+    {
+        "id": 14,
+        "Jogador": "Casemiro",
+        "idade": "31",
+        "posicão": "VOL",
+        "img": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 15,
+        "Jogador": "Joelinton",
+        "idade": "27",
+        "posicão": "MEI",
+        "img": "https://p2.trrsf.com.br/image/fget/cf/540/960/smart/images.terra.com/2023/06/17/00-joelinton-1iukw1sw7u71t.jpg"
+    },
+    {
+        "id": 16,
+        "Jogador": "Lucas Paquetá",
+        "idade": "26",
+        "posicão": "MEI",
+        "img": "https://s2.glbimg.com/QCm6uNAx9oKam5TQhYhKb55gfWo=/0x0:2581x2581/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2022/B/1/0nTYAFQaaHIAJGiptvHg/paqueta-wh.jpg"
+    },
+    {
+        "id": 17,
+        "Jogador": "Raphael Veiga",
+        "idade": "28",
+        "posicão": "MEI",
+        "img": "https://prod-layla-scrape-orchestrator-app-bucketd7feb781-8tias86tv27z.s3.us-east-2.amazonaws.com/f5c17806-1634-5149-b532-33e144fa55ff.jpeg"
+    },
+    {
+        "id": 18,
+        "Jogador": "Malcom",
+        "idade": "26",
+        "posicão": "ATA",
+        "img": "https://conteudo.imguol.com.br/c/esporte/6d/2023/05/11/malcom-e-o-artilheiro-e-melhor-jogador-do-futebol-russo-nesta-temporada-1683833790535_v2_450x450.jpg"
+    },
+    {
+        "id": 19,
+        "Jogador": "Pedro",
+        "idade": "26",
+        "posicão": "ATA",
+        "img": "https://s2-ge.glbimg.com/4MQPbClQGNRRIS0kecAPDKfgrVE=/0x0:3000x2000/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2023/E/a/njpUJVQnuhRIJVrxCH9Q/agif23072922302385.jpg"
+    },
+    {
+        "id": 20,
+        "Jogador": "Richarlison",
+        "idade": "26",
+        "posicão": "ATA",
+        "img": "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2022/12/09/2022-12-09t180958z_1693835623_up1eic91egl05_rtrmadp_3_soccer-worldcup-cro-bra-report-vf45lm0uhvfn.JPG"
+    },
+    {
+        "id": 21,
+        "Jogador": "Rodrygo",
+        "idade": "22",
+        "posicão": "ATA",
+        "img": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/07/20/1704010284-sevilla-fc-v-real-madrid-cf-laliga-santandereasy-resizecom.jpg"
+    },
+    {
+        "id": 22,
+        "Jogador": "Rony",
+        "idade": "28",
+        "posicão": "ATA",
+        "img": "https://i.superesportes.com.br/0L32yanuJhaxtvIZVWFtzE6shF0=/1200x1200/smart/imgsapp.mg.superesportes.com.br/app/noticia_126420360808/2023/02/22/3989018/rony-foi-o-protagonista-da-vitoria-do-palmeiras-sobre-o-bragantino_1_41763.jpg"
+    },
+    {
+        "id": 23,
+        "Jogador": "Vini Jr",
+        "idade": "23",
+        "posicão": "ATA",
+        "img": "https://www.gaveanews.com/wp-content/uploads/Vinicius-Junior-exibe-o-escudo-do-Real-Madrid-apos-marcar-um-gol-pelo-time-da-Espanha.jpg"
+    }
+]
